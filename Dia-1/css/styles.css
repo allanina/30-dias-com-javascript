@@ -1,0 +1,92 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+footer{
+  background-color: #F2B28D;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 5%;
+  text-align: center;
+}
+
+#background{
+  background-color: #A65858;
+}
+
+#div__botao-geral{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+}
+
+#div__botao-especifico{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 20vh;
+}
+
+#hello{
+  text-align: center;
+  color: aliceblue;
+  font-weight: 700;
+  font-size: 100px;
+}
+
+#paragraph__botao-geral, #paragraph__botao-especifico{
+  text-align: center;
+  color: aliceblue;
+  margin-bottom: 2%;
+  font-weight: 400;
+}
+
+#button{
+  border-radius: 28px;
+  box-shadow:  0 0 0.5rem rgb(206, 193, 193);
+  padding: 0.5%;
+  border-style: none;
+}
+
+#button__cores-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#cor1, #cor2, #cor3, #cor4, #cor5{
+  border-radius: 28px;
+  border-style: none;
+}
+
+#cor1{
+  background-color: #41A66C;
+}
+
+#cor2{
+  background-color: #BCBF50;
+}
+
+#cor3{
+  background-color: #8C7D32;
+}
+
+#cor4{
+  background-color: #EC9B69;
+}
+
+#cor5{
+  background-color: #BF5A36;
+}
+
+#footer__text{
+  font-size: 12px;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
