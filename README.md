@@ -13,7 +13,7 @@ Eu escolho os projetos conforme eu vou descobrindo sugestões de projetos, como 
 
 ----------------------
 ## Projetos
-   - [DIA 1](https://github.com/allanina/30-dias-com-javascript) 
+   - [DIA 1](https://github.com/allanina/30-dias-com-javascript/tree/main/Dia-1) 
 
 ----------------------
 <br>
