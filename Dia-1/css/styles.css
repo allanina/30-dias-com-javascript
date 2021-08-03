@@ -5,7 +5,7 @@
 }
 
 footer{
-  background-color: #F2B28D;
+  background-color: bisque;
   position: absolute;
   bottom: 0;
   width: 100%;
@@ -52,6 +52,10 @@ footer{
   box-shadow:  0 0 0.5rem rgb(206, 193, 193);
   padding: 0.5%;
   border-style: none;
+  transition: background-color 0.2s linear 0.1s;
+}
+#button:hover{
+  background-color: bisque;
 }
 
 #button__cores-container{
@@ -63,26 +67,48 @@ footer{
 #cor1, #cor2, #cor3, #cor4, #cor5{
   border-radius: 28px;
   border-style: none;
+  transition: background-color 0.2s linear 0.1s;
 }
+
 
 #cor1{
   background-color: #41A66C;
+}
+
+#cor1:hover{
+  background-color: bisque;
 }
 
 #cor2{
   background-color: #BCBF50;
 }
 
+#cor2:hover{
+  background-color: bisque;
+}
+
 #cor3{
   background-color: #8C7D32;
+}
+
+#cor3:hover{
+  background-color: bisque;
 }
 
 #cor4{
   background-color: #EC9B69;
 }
 
+#cor4:hover{
+  background-color: bisque;
+}
+
 #cor5{
   background-color: #BF5A36;
+}
+
+#cor5:hover{
+  background-color: bisque;
 }
 
 #footer__text{
@@ -90,3 +116,4 @@ footer{
   color: rgb(0, 0, 0);
   text-decoration: none;
 }
+
