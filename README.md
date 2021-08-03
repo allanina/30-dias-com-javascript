@@ -1,4 +1,4 @@
-# `30-dias-com-javascript`
+# `30 Dias com Javascript`
 Esse é um projeto pessoal para treinar conceitos de Javascript como manipulação de DOM, Manipulação de Arrays, consumo de API, entre outros.
 
 ----------------------
